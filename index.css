@@ -37,7 +37,7 @@ body {
   font-style: normal;
 }
 * {
-  font-family: "baloo2", "OpenSans";
+  font-family: 'Open Sans', sans-serif, 'baloo2';
 } 
 
 .emoji {
